@@ -37,7 +37,7 @@ Um empresa deseja controlar os processos relacionados a funcionários (contrata�
 
 Após levantamento inicial de requisitos, foi modelado o seguinte diagrama de classe:
 
-![Image of Yaktocat](img/diagrama1.png)
+![Image of Yaktocat](arquivos/diagrama1.png)
 
 Com base no diagrama de classe apresentado:
 
