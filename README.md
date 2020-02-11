@@ -18,12 +18,12 @@ gradlew.bat run
 
 No Linux
 ```bash
-./gradlew check
+./gradlew test --rerun-tasks
 ```
 
 No Windows
 ```bash
-gradlew.bat check
+gradlew.bat test --rerun-tasks
 ```
 
 ## Exemplos
