@@ -21,5 +21,19 @@ public class Main {
         System.out.println(a2.sobrenome);
         //System.out.println(a2.nome + " " + a2.sobrenome);
         System.out.println(a2.getNomeCompleto());
+
+
+        System.out.println(calcularAreaQuadrado(15.0));
+        System.out.println(calcularPerimetroQuadrado(15.0));
+
+
+    }
+
+    public static Double calcularAreaQuadrado(Double lado) {
+        return lado * lado;
+    }
+
+    public static Double calcularPerimetroQuadrado(Double lado) {
+        return 4 * lado;
     }
 }

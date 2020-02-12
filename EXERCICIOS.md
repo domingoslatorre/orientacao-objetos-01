@@ -6,14 +6,14 @@ As classes devem ser criadas nos diretórios/pacote:
  - testes: `/src/test/java/exercicios`
  
 ### Exercício 01 - Figuras geométricas Retângulo e Círculo
-Utilize as classes `Quadrado` e `QuadradoTeste` apresentadas nos exemplos como referências.
+Utilize como referência as classes `Quadrado` e `QuadradoTeste` apresentadas nos exemplos.
 
-1. Implementar em java as classes `Retangulo` e `Circulo` com os métodos `area` e `perimetro`. Identifique os atributos necessários de cada classe. 
+1. Implementar em java as classes `Retangulo` e `Circulo` com os métodos `calcularArea` e `calcularPerimetro`. Identifique os atributos necessários de cada classe. 
 1. Criar as classes de teste `RetanguloTeste`, `CirculoTeste` e implementar os testes de unidade para cada classe:
     1. Criação dos objetos;
     1. Presença dos atributos;
-    1. Método area;
-    1. Método perimetro;
+    1. Método calcularArea;
+    1. Método calcularPerimetro;
 1. Executar os testes:
     - `./gradlew test --tests exercicios.RetanguloTeste --rerun-tasks`
     - `./gradlew test --tests exercicios.CirculoTeste --rerun-tasks`
@@ -22,7 +22,7 @@ Utilize as classes `Quadrado` e `QuadradoTeste` apresentadas nos exemplos como r
 
 ### Exercício 02 - Correntista de um banco
 
-Utilize as classes `Aluno` e `AlunoTeste` apresentadas nos exemplos como referências.
+Utilize como referência a classe `Aluno` apresentadas nos exemplos.
 
 1. Criar a class `Correntista` com os atributos `codigo`, `nome`, `email` e `telefone`;
 1. Criar a classe `CorrentistaTeste` e implementar os testes de unidade 
