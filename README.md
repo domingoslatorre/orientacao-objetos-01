@@ -589,3 +589,23 @@ public class QuadradoTeste {
 ```
 - Qual assert falhou?
 - O teste verifica muitas coisas
+
+## Instruções Configurar Proxy no Laboratório
+
+### Git
+Abrir o Git Bash
+```
+git config --global http.proxy http://10.100.4.253:3128
+```
+
+### IntelliJ IDEA
+
+File > Settings > Appearance & Behavior > System Settings > HTTP Proxy
+
+Manual proxy configuration
+
+(x) HTTP
+
+Host name: 10.100.4.253
+
+Port number: 3128
