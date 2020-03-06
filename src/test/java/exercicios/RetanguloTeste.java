@@ -49,5 +49,4 @@ public class RetanguloTeste {
         // Assert
         assertEquals(valorEsperado, valorObtido);
     }
-
 }
