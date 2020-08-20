@@ -1,4 +1,4 @@
-import exemplos.Aluno;
+import aula01.exemplos.Aluno;
 
 public class Main {
     public static void main(String[] args) {

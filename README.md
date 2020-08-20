@@ -53,7 +53,7 @@ public class Aluno {
 
 Método Main (ponto de início de execução programa)
 ```java
-import exemplos.Aluno;
+import Aluno;
 
 public class Main {
     public static void main(String[] args) {
@@ -65,7 +65,7 @@ public class Main {
 
 Criação de dois objetos Aluno e definição de valores para os atributos
 ```java
-import exemplos.Aluno;
+import Aluno;
 
 public class Main {
     public static void main(String[] args) {
@@ -84,7 +84,7 @@ public class Main {
 
 Mostra na saída os valores dos atributos de cada aluno
 ```java
-import exemplos.Aluno;
+import Aluno;
 
 public class Main {
     public static void main(String[] args) {
@@ -126,7 +126,7 @@ public class Aluno {
 
 Chamando o método obter nome no Main
 ```java
-import exemplos.Aluno;
+import Aluno;
 
 public class Main {
     public static void main(String[] args) {

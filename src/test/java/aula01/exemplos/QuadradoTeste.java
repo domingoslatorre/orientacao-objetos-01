@@ -1,4 +1,4 @@
-package exemplos;
+package aula01.exemplos;
 
 import org.junit.jupiter.api.Test;
 

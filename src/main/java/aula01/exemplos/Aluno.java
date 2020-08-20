@@ -1,4 +1,4 @@
-package exemplos;
+package aula01.exemplos;
 
 public class Aluno {
     public String nome;
