@@ -1,2 +1,4 @@
-package aula01.exercicio;public class CirculoTeste {
+package aula01.exercicio;
+
+public class CirculoTeste {
 }
