@@ -1,4 +1,4 @@
-package aula01.exercicio;
+package aula02.exercicio;
 
 public class Funcionario {
 
