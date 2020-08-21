@@ -17,7 +17,7 @@ public class Funcionario {
     }
 
     public String obterDados(){
-        return nome + ", " + idade + ", '" + email;
+        return nome + ", " + idade + " anos , " + email;
     }
     public void promover(Double porcentagemAumento){
         this.salario = this.salario * (1 + porcentagemAumento/100);
